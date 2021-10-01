@@ -1,0 +1,18 @@
+html,body{
+    height:100%;
+    margin : 0;
+}
+
+body{
+    background-image: linear-gradient(to right top,#4ca9b5 , #f70e0e , #b5b34c ,#d80c6b,#deed09,#09ed8e,#4ca9b5 , #f70e0e , #b5b34c ,#d80c6b,#deed09,#09ed8e, #358bc4,#ed1909,#cb09ed,#eda109);
+    text-align: center;
+}
+
+#welcome{
+    font-size: x-small;
+    -webkit-text-fill-color:blue ;
+}
+
+#logout{
+    color: firebrick;
+}
